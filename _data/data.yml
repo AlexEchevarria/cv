@@ -23,14 +23,14 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
-    languages:
+languages:
       - idiom: Español
         level: Nativo
 
       - idiom: Ingles
         level: Bueno
         
-    interests:
+interests:
       - item: Deportes
         link:
 
