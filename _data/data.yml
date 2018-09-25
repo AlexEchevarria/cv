@@ -42,10 +42,10 @@ education:
       university: IES Campanillas
       time: 2014 - 2016
       details: 
-    - degree: 
-      university: Bristol University
-      time: 2007 - 2011
-      details: B1 Preliminary English (Cambridge)
+    - degree: B1 Preliminary English (Cambridge)
+      university:
+      time: 
+      details: 
 
 experiences:
     - Ninguna
