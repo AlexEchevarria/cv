@@ -5,7 +5,6 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
-    languages: False
     
     # Profile information
     name: Alejandro Echevarría Rengel
@@ -16,7 +15,7 @@ sidebar:
     email: alexrackz@gmail.com
     phone: (34) 633550391
     website: 
-    linkedin: Alejandro Echevarría Rengel "https://www.linkedin.com/in/alejandro-echevarria-rengel-6a1b9b145/"
+    linkedin: alejandro-echevarria-rengel-6a1b9b145
     github: AlexEchevarria
     gitlab:
     bitbucket:
