@@ -52,15 +52,13 @@ experiences:
       details:
   
 skills: 
-    title: Conocimientos de montaje, reparación e instalación de Software en ordenadores.
+    title: Montaje e instalación Software
     
     toolset:
       - name: Montaje
         level: 90%
       
-      - name: Instalación de sistemas operativos
+      - name: Instalación de sistemas operativos, Software
         level: 100%
-        
-      - name: Reparación
-        level: 60%
+     
         
