@@ -51,7 +51,20 @@ experiences:
       company: 
       details:
   
-  skills: Conocimientos de montaje, reparación e instalación de Software en ordenadores.
-    title: 
+  skills: 
+    title: Conocimientos de montaje, reparación e instalación de Software en ordenadores.
+    
+    toolset:
+      - name: Montaje
+        level: 90%
+      
+      - name: Instalación de sistemas operativos
+        level: 100%
+        
+      - name: Reparación
+        level: 60%
+        
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a
 
 
