@@ -23,25 +23,39 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
-languages:
+    languages:
       - idiom: Español
         level: Nativo
 
       - idiom: Ingles
         level: Bueno
         
-interests:
+    interests:
       - item: Deportes
         link:
 
       - item: Gaming
         link:
 
+career-profile:
+    title: 
+    summary:
+    
 education: 
     - degree: Bachillerato Ciencias-Tecnológico
       university: IES Campanillas
       time: 2014 - 2016
       details: 
     - degree: B1 Preliminary English (Cambridge)
+    
+experiences:
+    - role: Ninguna
+      time: 
+      company: 
+      details:
+     
+projects:
+    title: 
+    intro:
 
 
