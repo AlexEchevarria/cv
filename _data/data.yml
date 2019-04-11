@@ -48,10 +48,13 @@ education:
     
 experiences:
     - role: Sin experiencia laboral.
-            Carnet de conducir.
-            Coche propio.
       time: 
       company: 
+      details:
+    
+    - role: Carnet de conducir y coche propio.
+      time:
+      company:
       details:
   
 skills: 
