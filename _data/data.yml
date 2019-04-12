@@ -16,7 +16,7 @@ sidebar:
     email: alexrackz@gmail.com
     phone: (34) 633550391
     website:  goo.gl/maps/KJrhgY6uTJw
-    linkedin: alejandro-echevarria-rengel-6a1b9b145
+    linkedin: Alejandro-Echevarria
     github: AlexEchevarria
     gitlab:
     bitbucket:
@@ -44,6 +44,10 @@ education:
       university: IES Campanillas
       time: 2014 - 2016
       details: 
+    - degree: Ingeniero informático
+      university: Universidad de Málaga
+      time: 2016 - ahora
+      details: cursando
     - degree: B1 Preliminary English (Cambridge)
     
 experiences:
