@@ -41,7 +41,7 @@ education:
       university: IES Campanillas
       time: 2014 - 2016
       details: 
-    - degree: Ingeniero informático de Sistemas
+    - degree: Ingeniería Informática (Sistemas de información)
       university: Universidad de Málaga
       time: 2016 - ahora
       details: cursando
@@ -59,16 +59,10 @@ experiences:
       details:
   
 skills: 
-    title: Aptitudes
+    title: Lenguajes de programación / Aptitudes
     
     toolset:
-      - name: Montaje de ordenadores
-        level: 80%
-      
-      - name: Instalación de sistemas operativos, Software
-        level: 80%
-      
-      - name: Ganas de aprender
+      - name: Java, C++, C, Python básico, html5, aprendiendo JavaScript (React y NodeJs) y Haskell.
         level: 100%
       
       - name: Trabajo en equipo
